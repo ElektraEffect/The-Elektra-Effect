@@ -6,11 +6,7 @@ my blog
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My Blog</title>
-    <style>
-        body { font-family: Arial, sans-serif; text-align: center; padding: 20px; }
-        .container { max-width: 800px; margin: auto; }
-        .about img { border-radius: 50%; width: 150px; }
-    </style>
+   
 </head>
 <body>
     <div class="container">
